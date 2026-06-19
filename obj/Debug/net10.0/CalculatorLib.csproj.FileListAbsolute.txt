@@ -1,0 +1,11 @@
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\obj\Debug\net10.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\obj\Debug\net10.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\obj\Debug\net10.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\obj\Debug\net10.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\bin\Debug\net10.0\CalculatorLib.deps.json
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\bin\Debug\net10.0\CalculatorLib.dll
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\bin\Debug\net10.0\CalculatorLib.pdb
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\obj\Debug\net10.0\CalculatorLib.dll
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\obj\Debug\net10.0\refint\CalculatorLib.dll
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\obj\Debug\net10.0\CalculatorLib.pdb
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\obj\Debug\net10.0\ref\CalculatorLib.dll

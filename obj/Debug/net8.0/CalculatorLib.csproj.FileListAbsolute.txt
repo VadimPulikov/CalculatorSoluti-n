@@ -1,0 +1,4 @@
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\obj\Debug\net8.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\obj\Debug\net8.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\obj\Debug\net8.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\maxim\Desktop\CalculatorSoluti-n-main\CalculatorLib\obj\Debug\net8.0\CalculatorLib.csproj.CoreCompileInputs.cache
